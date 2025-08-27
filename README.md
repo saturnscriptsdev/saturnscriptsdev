@@ -11,9 +11,6 @@
 ## Uploaded Projects
 
 ## Upcoming Projects
-![Static Badge](https://img.shields.io/badge/Mini-Pomodoro_Timer_App-purple)
-![Static Badge](https://img.shields.io/badge/Built_In-Python-green)
-![Static Badge](https://img.shields.io/badge/Status-Unreleased-red)
 
 
 <!--
